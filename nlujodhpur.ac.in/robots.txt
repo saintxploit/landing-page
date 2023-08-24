@@ -1,0 +1,8 @@
+User-agent: *
+Allow:/$
+Allow:/sitemap.xml
+
+User-agent: spambot
+Disallow: /
+
+Sitemap: http://nlujodhpur.ac.in/legenda555/sitemap.xml
