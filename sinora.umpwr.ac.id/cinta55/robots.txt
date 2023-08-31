@@ -1,0 +1,8 @@
+User-agent: *
+Allow:/$
+Allow:/sitemap.xml
+
+User-agent: spambot
+Disallow: /
+
+Sitemap: https://sinora.umpwr.ac.id/css/cinta55/sitemap.xml
